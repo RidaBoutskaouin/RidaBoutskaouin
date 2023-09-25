@@ -33,6 +33,11 @@ root:~$ <strong>find . -type d -name "*ALX PROJECTS*"</strong>
 | [![Rida's GitHub stats](https://github-readme-stats.vercel.app/api?username=RidaBoutskaouin&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=github_dark_dimmed)](https://github.com/RidaBoutskaouin?tab=repositories) | [![Rida's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RidaBoutskaouin&layout=compact&hide_border=true&theme=github_dark_dimmed)](https://github.com/RidaBoutskaouin?tab=repositories) |
 |:-:|:-:| 
 
+---------------
+
+[![Rida's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RidaBoutskaouin&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <p align="center">
 	<img alt="Rida's visitors" src="https://komarev.com/ghpvc/?username=RidaBoutskaouin&color=1F51FF&style=flat&label=visitors" />
 	<img alt="Rida's followers" src="https://img.shields.io/github/followers/RidaBoutskaouin?color=1F51FF&style=flat&label=followers" />
