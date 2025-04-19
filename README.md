@@ -3,18 +3,18 @@
 <pre>
 root:~$ <strong>whoami</strong>
 I have a Bachelor degree in Computer Science and Business Management,
-and currently I'am a Software engineer student at <a href="https://www.alxafrica.com">Alx Africa</a>.
+and I have completed the Software Engineering program at <a href="https://www.alxafrica.com">Alx Africa</a>.
 
 root:~$ <strong>cat about.txt</strong>
-1. Software Engineer student at ALX africa.
+1. Graduate of ALX Africa's Software Engineering Program.
 2. I'm deeply passionate about IT, driven by an insatiable hunger
     to constantly learn and embrace the latest technologies.
-3. Interested in full-stack development, artificial intelligence,
+3. Interested in webscraping, full-stack development, artificial intelligence,
     CyberSecurity, Database administration and everything in between.
  
 root:~$ <strong>ls socials</strong>
  LinkedIn: <a href="https://www.linkedin.com/in/rida-boutskaouin">Rida Boutskaouin</a>
- Email   : <a href="mailto:rida.boutskaouin@edu.uiz.ac.ma">rida.boutskaouin@edu.uiz.ac.ma</a>
+ Email   : <a href="mailto:rida.boutskaouin@proton.me">rida.boutskaouin@proton.me</a>
 
 root:~$ <strong>find . -type d -name "*ALX PROJECTS*"</strong>
 <a href="https://github.com/RidaBoutskaouin/simple_shell">Simple Shell</a>
